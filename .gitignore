@@ -1,0 +1,7 @@
+
+*.zip
+*.pdf
+*.kmz
+*.csv
+*.html
+.ipynb_checkpoints/AboveSoil-checkpoint.ipynb
